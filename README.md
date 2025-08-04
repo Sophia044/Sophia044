@@ -1,7 +1,6 @@
-# Olá aqui é a Sophia
-
 <img src="imagens/banner.png" alt= "banner"/>
 
+# Olá aqui é a Sophia
 <!--
 **Sophia044/Sophia044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
