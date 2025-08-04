@@ -1,7 +1,6 @@
 # Olá aqui é a Sophia
-# bem vindos devs 
 
-<img loading="banner" src="file:///C:/Users/CAMARGO/Desktop/Sophia044/imagens/banner.png"/>
+<img src="imagens/banner.png" alt= "banner"/>
 
 <!--
 **Sophia044/Sophia044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
