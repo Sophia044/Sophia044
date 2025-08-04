@@ -72,10 +72,13 @@
    </td>
    <td>
      
-🎶 **O que estou ouvindo agora**  
-Adoro explorar novos sons e sempre descubro músicas diferentes.  
-Se quiser me recomendar algo, me chame!  
+## Para programadores e curiosos
+ 👋 Oi! Eu sou a **Sophia**, tenho 17 anos e atualmente estudo **Análise e Desenvolvimento de Sistemas**.  
+💻 Estou me aprofundando em programação, explorando tanto **front-end** quanto **back-end**, e adoro aprender coisas novas todos os dias.  
+🎨 Além da tecnologia, tenho uma paixão enorme por **arte, design e música**, que sempre me inspiram a criar.  
+🚀 Estou em busca de **oportunidades para crescer**, aplicar meus conhecimentos e me consolidar no mercado de trabalho.  
 
+Se quiser trocar uma ideia, compartilhar conhecimento ou até música, será muito bem-vindo! 🎶  
    </td>
   </tr>
 </table>
