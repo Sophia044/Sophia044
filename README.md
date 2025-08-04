@@ -53,7 +53,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sophia044/Sophia044/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 
 ###
@@ -64,9 +63,21 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 </div>
 
 ###
-<div align="center">
-  
+<table>
+  <tr>
+    <td>
+      
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cobpggp3tzmmzb8gaq9kz4eo9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false )](https://github.com/kittinan/spotify-github-profile)
-###
 
-</div>
+   </td>
+   <td>
+     
+🎶 **O que estou ouvindo agora**  
+Adoro explorar novos sons e sempre descubro músicas diferentes.  
+Se quiser me recomendar algo, me chame!  
+
+   </td>
+  </tr>
+</table>
+
+
